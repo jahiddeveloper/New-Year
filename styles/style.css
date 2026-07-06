@@ -40,3 +40,42 @@
   margin: 0 auto;
   color: white;
 }
+
+/* Main */
+
+.main {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Offer */
+
+.offer {
+  margin-top: 120px;
+}
+.offer-title {
+  font-size: 88px;
+  font-weight: bold;
+  color: #FF0000;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.offer-subtitle {
+  font-size: 24px;
+  font-weight: 500;
+  color: #FF0000; 
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 0px;
+}
+.offer-description {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 16px;
+  margin-bottom: 48px;
+}
+.offer-img {
+  display: flex;
+  margin: 0 auto;
+}
