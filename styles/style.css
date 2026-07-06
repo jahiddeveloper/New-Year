@@ -79,3 +79,49 @@
   display: flex;
   margin: 0 auto;
 }
+
+/* Party */
+
+.party {
+  margin-top: 120px;
+  background-image: linear-gradient(to right, 
+      rgba(0,0,0,0.85), 
+      rgba(0,0,0,0.3), 
+      rgba(0,0,0,0.05)
+    ), url(../images/Vectorrr.png);
+    padding: 100px 0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+    margin-bottom: 0px;
+}
+.party-title {
+  width:500px;
+  font-size: 64px;
+  font-weight: 600px;
+  margin-bottom: 0px;
+  color: white;
+}
+.party-description {
+  margin-top: 24px;
+  width: 600px;
+  line-height: 30px;
+  color: white;
+}
+.join-btn {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 20px 50px;
+  cursor: pointer;
+  border: none;
+  border-radius: 7px;
+}
+.join-btn:hover {
+  background-color: #FF0000;
+  color: white;
+  transition-duration: 0.4s;
+}
