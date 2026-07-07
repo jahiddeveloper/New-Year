@@ -204,3 +204,41 @@
   outline-offset: 25px;
   border-radius: 50%;
 }
+
+/* Sales */
+
+.sale {
+  margin-top: 120px;
+}
+.sale-subtitle {
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+  color: #070211;
+  margin-bottom: 0px;
+}
+.sale-title {
+  font-size: 72px;
+  font-weight: bold;
+  margin-top: 16px;
+  text-align: center;
+  margin-bottom: 28px;
+}
+.holiday {
+  color: #ff0000;
+}
+.sale-description {
+  color: #070211;
+  line-height: 32px;
+  font-size: 20px;
+  font-weight: 400;
+  width: 868px;
+  text-align: center;
+  margin: 0 auto;
+}
+.sale-container {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
