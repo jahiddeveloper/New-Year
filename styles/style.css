@@ -331,3 +331,34 @@
   border-bottom-right-radius: 50px;
   cursor: pointer;
 }
+
+.footer {
+  margin-top: 120px;
+  background-color: black;
+  color: white;
+  padding: 120px 0px 10px 0px;
+}
+.foot1-container {
+  width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.foot11 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 40px;
+  width: 375px;
+}
+hr {
+  border: 1px solid rgb(44, 44, 44);
+}
+.icon {
+  width: 1400px;
+  margin: 40px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
